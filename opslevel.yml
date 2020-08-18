@@ -15,5 +15,7 @@ service:
   - name:
     path: "/"
     provider: github
-  tools: aodmawodmawd
+  tools:
+  - name:
+  - category:
   
