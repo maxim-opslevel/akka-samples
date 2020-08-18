@@ -1,0 +1,18 @@
+---
+version: 1
+service:
+  name: Syncing Test
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases: 
+  tags: 
+  repositories:
+  - name: Syncing-Test/my_test
+    path: "/"
+    provider: github
+  tools: 
