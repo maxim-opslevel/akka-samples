@@ -12,7 +12,7 @@ service:
   aliases: 
   tags: 
   repositories:
-  - name: Syncing-Test/my_test
+  - name:
     path: "/"
     provider: github
   tools: 
