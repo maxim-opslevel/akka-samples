@@ -4,7 +4,7 @@ service:
   name: Syncing Test
   lifecycle: 
   tier: 
-  product: 
+  product: some product 
   owner: 
   language: 
   framework: 
